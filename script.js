@@ -33,7 +33,7 @@ nameCtx.font = 'bold 10vw Arial';
 nameCtx.textAlign = 'center';
 nameCtx.textBaseline = 'middle';
 nameCtx.fillStyle = 'white';
-nameCtx.fillText('PRIYA', canvas.width / 2, canvas.height / 2);
+nameCtx.fillText('UTHRA', canvas.width / 2, canvas.height / 2);
 
 const mask = nameCtx.getImageData(0, 0, canvas.width, canvas.height);
 
